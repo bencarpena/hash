@@ -8,7 +8,12 @@ This tool is the commandline utility version whereas its predecessors are web an
 
 ### Other notes:
 Encoding is the process of transforming a set of Unicode characters into a sequence of bytes. 
-Decoding is the process of transforming a sequence of encoded bytes into a set of Unicode characters.
+Decoding is the process of transforming a sequence of encoded bytes into a set of Unicode characters.'
+
+### Compile and packaging:
+- C# Compiler from Terminal: csc Program.cs
+- Execute using mono runtime from Terminal (ECMA Common Language Infrastructure): mono Program.exe 
+
 
 ### References:
 - https://docs.microsoft.com/en-us/dotnet/api/system.text.asciiencoding?view=net-5.0
