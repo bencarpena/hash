@@ -16,6 +16,7 @@ Decoding is the process of transforming a sequence of encoded bytes into a set o
 
 
 ### References:
+- Architecture : https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework#architecture
 - https://docs.microsoft.com/en-us/dotnet/api/system.text.asciiencoding?view=net-5.0
 - https://docs.microsoft.com/en-us/dotnet/api/system.convert.tobase64string?view=net-5.0
 

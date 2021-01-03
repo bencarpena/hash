@@ -1,16 +1,13 @@
 ﻿<Properties StartupConfiguration="{D776C2CD-50A1-44A7-9C9A-F35F0D999EE0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="hashconsole/Program.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hashconsole/Program.cs">
     <Files>
-      <File FileName="hashconsole/Program.cs" Line="7" Column="18" />
-      <File FileName="hashconsole/Program.txt" Line="137" Column="11" />
+      <File FileName="hashconsole/Program.cs" Line="14" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="hashconsole" expanded="True">
-            <Node name="hashconsole" expanded="True">
-              <Node name="Program.txt" selected="True" />
-            </Node>
+          <Node name="hashconsole" expanded="True" selected="True">
+            <Node name="hashconsole" expanded="True" />
           </Node>
         </State>
       </Pad>
