@@ -28,3 +28,17 @@
 /Users/bencarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/ref/hashconsole.dll
 /Users/bencarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.pdb
 /Users/bencarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.genruntimeconfig.cache
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/bin/Debug/net5.0/hashconsole.deps.json
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/bin/Debug/net5.0/hashconsole.runtimeconfig.json
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/bin/Debug/net5.0/hashconsole.runtimeconfig.dev.json
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/bin/Debug/net5.0/hashconsole.dll
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/bin/Debug/net5.0/ref/hashconsole.dll
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/bin/Debug/net5.0/hashconsole.pdb
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.AssemblyInfoInputs.cache
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.AssemblyInfo.cs
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.csproj.CoreCompileInputs.cache
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.dll
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/ref/hashconsole.dll
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.pdb
+/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/Debug/net5.0/hashconsole.genruntimeconfig.cache

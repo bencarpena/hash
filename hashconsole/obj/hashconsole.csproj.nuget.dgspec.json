@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bencarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/hashconsole.csproj": {}
+    "/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/hashconsole.csproj": {}
   },
   "projects": {
-    "/Users/bencarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/hashconsole.csproj": {
+    "/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/hashconsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bencarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/hashconsole.csproj",
+        "projectUniqueName": "/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/hashconsole.csproj",
         "projectName": "hashconsole",
-        "projectPath": "/Users/bencarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/hashconsole.csproj",
-        "packagesPath": "/Users/bencarpena/.nuget/packages/",
-        "outputPath": "/Users/bencarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/",
+        "projectPath": "/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/hashconsole.csproj",
+        "packagesPath": "/Users/benjcarpena/.nuget/packages/",
+        "outputPath": "/Users/benjcarpena/OneDrive/_Projects/Projects/hashes/hashconsole/hash/hashconsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bencarpena/.config/NuGet/NuGet.Config"
+          "/Users/benjcarpena/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
